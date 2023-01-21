@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toli/static/css/main.1d6a650d.css",
+    "main.js": "/toli/static/js/main.b5d6e662.js",
+    "static/js/787.3a60077b.chunk.js": "/toli/static/js/787.3a60077b.chunk.js",
+    "index.html": "/toli/index.html",
+    "main.1d6a650d.css.map": "/toli/static/css/main.1d6a650d.css.map",
+    "main.b5d6e662.js.map": "/toli/static/js/main.b5d6e662.js.map",
+    "787.3a60077b.chunk.js.map": "/toli/static/js/787.3a60077b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d6a650d.css",
+    "static/js/main.b5d6e662.js"
+  ]
+}
